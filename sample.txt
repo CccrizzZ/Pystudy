@@ -1,0 +1,2 @@
+This is sample.txt 
+I will drink until I pass out 
